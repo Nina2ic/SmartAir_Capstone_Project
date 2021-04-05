@@ -125,7 +125,8 @@ To securely test whether the sensor is working appropriately, here is a checklis
 
 
 
-<h2>Github Links</h2><br>
+<h2>Github Links</h2>
+
 https://github.com/Nina2ic/SmartAir_Capstone_Project.git
 
 
