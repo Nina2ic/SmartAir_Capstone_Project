@@ -114,9 +114,9 @@ Once the wifi credentials, country, SSID, and password filled in, the wifi crede
  
 To securely test whether the sensor is working appropriately, here is a checklist:
 
-<b>1.</b>  3.3v is connected to VCC on the Raspberry Pi and pin 1 of the DHT22
-<b>2.</b>  GND is connected to pin 4 of the DHT22 and pin 7 of the Raspberry Pi
-<b>3.</b>  Data Line is connected to pin 2 of the DHT22 and pin 6 of the Raspberry Pi
+<b>1.</b>  3.3v is connected to VCC on the Raspberry Pi and pin 1 of the DHT22<br>
+<b>2.</b>  GND is connected to pin 4 of the DHT22 and pin 7 of the Raspberry Pi<br>
+<b>3.</b>  Data Line is connected to pin 2 of the DHT22 and pin 6 of the Raspberry Pi<br>
 <b>4.</b>  Make sure there is a 10K Ohm resistor in between pin 2(Data Line) & pin 1(Power) of the DHT22
 
 
