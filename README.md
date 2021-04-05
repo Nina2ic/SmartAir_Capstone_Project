@@ -1,6 +1,7 @@
 # SmartAir_Capstone_Project
 
-![image](https://user-images.githubusercontent.com/71288104/113532047-6f4fcb00-9598-11eb-8eaf-0b6b1d2fd936.png)
+![image](https://user-images.githubusercontent.com/71288104/113532317-116fb300-9599-11eb-9324-756aae22d819.png)
+
 
 
 
