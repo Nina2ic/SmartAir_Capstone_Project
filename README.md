@@ -55,7 +55,7 @@ Raspberry pi features
  Use the USB-to-Ethernet adapter, execute the setup software for the Startech adapter device located on my computer. After the driver installs, plug in the USB-to-Ethernet adapter. Once the device is installed, connect the network cable from the adapter to the RPI Ethernet port. Plugin the power to the RPI, then I  follow my laptop's network status as it finds this device.  In the end, it was connected to an 'Unidentified' network that doesn't have access to the internet.
 Start VNC or PuTTY remote terminal program and use my RPI IP address that belongs to the router in use to establish the initial login connection.  
 
-<h4>Raspberry pi setup<h4>
+<h4>Raspberry pi setup</h4>
 I inserted a micro SD in the card reader; then, I connected the card reader to my computer(new SD, no need to format). Downloaded the RPI OS, follow the instructions. After downloading, I inserted a micro SD card into the card slot on the raspberry pi underside. In the putty terminal, install the RPI operating system with the command Sudo apt-get install. Furthermore, I use the WinSCP program to transfer files to the RPI
 
 
