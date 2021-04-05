@@ -7,17 +7,20 @@
 
 <h2>Items to purchase	Cost per hardware</h2>
 
-Raspberry pi kit	114.47
-DHT22 Sensor	36.11
-Hx711 Load cell Amplifier	16.11
-Fusion PCB	30.94
+- Raspberry pi kit	114.47<br>
+- DHT22 Sensor	36.11<br>
+- Hx711 Load cell Amplifier	16.11<br>
+- Fusion PCB	30.94
+
 ToTal	197.63
 
 
 <h2>Duration of time spent on each part of the project</h2>
-Raspberry pi an estimate of 3 weeks
-Dht22 sensor an estimated time of 5 weeks
-Hx711 loadcell amplifier an estimated time on two week
+
+- Raspberry pi an estimate of 3 weeks<br>
+- Dht22 sensor an estimated time of 5 weeks<br>
+- Hx711 loadcell amplifier an estimated time on two week
+
 The estimated time to complete this project is by week fourteen. Acquiring the necessary parts, PCB printing and PCB soldering perform a significant function in completing the project. Also, having any relevant experience with any of the elements as mentioned above will reduce the duration of spent on each part completion time
 
 
@@ -66,13 +69,14 @@ The DHT22 is a necessary, low-cost digital temperature and humidity sensor. It u
 
 ![image](https://user-images.githubusercontent.com/71288104/113535388-41bb4f80-95a1-11eb-9891-7d999342c624.png)
 
-•	3 to 5V power and I/O
-•	2.5mA max current use during conversion (while requesting data)
-•	Good for 0-100% humidity readings with 2-5% accuracy
-•	Good for -40 to 80°C temperature readings ±0.5°C accuracy
-•	No more than 0.5 Hz sampling rate (once every 2 seconds)
-•	Body size 27mm x 59mm x 13.5mm (1.05" x 2.32" x 0.53")
-•	Four pins, 0.1" spacing
+•	3 to 5V power and I/O<br>
+•	2.5mA max current use during conversion (while requesting data)<br>
+•	Good for 0-100% humidity readings with 2-5% accuracy<br>
+•	Good for -40 to 80°C temperature readings ±0.5°C accuracy<br>
+•	No more than 0.5 Hz sampling rate (once every 2 seconds)<br>
+•	Body size 27mm x 59mm x 13.5mm (1.05" x 2.32" x 0.53")<br>
+•	Four pins, 0.1" spacing<br>
+
 Weight (just the DHT22): 2.4g
 
 
