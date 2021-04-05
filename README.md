@@ -27,6 +27,7 @@ RPI to connect to power the sensor with a 3.3v pin for my development board.  Ad
 •	GPI04 to pin 1
 •	Connect Wire from RPI to GND
 
+![image](https://user-images.githubusercontent.com/71288104/113535108-85fa2000-95a0-11eb-8615-fc65a61609d8.png)
 
 
 
