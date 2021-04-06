@@ -71,17 +71,6 @@ The standard release of Raspian has Real VNC remote access server software insta
 <h4>DHT22 Sensor</h4>
 The DHT22 is a necessary, low-cost digital temperature and humidity sensor. It uses a capacitive humidity sensor and a thermistor to measure the surrounding air and spits out a digital signal on the data pin (no analog input pins are needed). It's relatively simple to use but requires careful timing to grab data. The only real downside of this sensor is you can only get new data from it once every 2 seconds, so when using our library, sensor readings can be up to 2 seconds old. Connect the first pin on the left to 3-5V power, the second pin to your data input pin, and the rightmost pin to the ground.
 
-<h4>Load cell Amplifier<h4>
-
-Load Cell Amplifier is a small breakout board for the HX711 IC that quickly reads load cells to measure weight. By connecting the Amplifier to the RPI, one will be able to read the changes in the resistance of the load cell, and with some calibration, one will be able to get very accurate weight measurements. 
-The HX711 uses a two-wire interface (Clock and Data) for communication. Any  GPIO pins should work, and numerous libraries have been written, making it easy to read data from the HX711. Check the hookup guide below for more information.
-•	Red (Excitation+ or VCC)
-•	Black (Excitation- or GND)
-•	White (Amplifier-, Signal- or Output-)
-•	Green (A+, S+ or O+)
-•	Yellow (Shield)
-Double-check to make sure all pins are connected to correct colour codes. Place the Amplifier directly on its slot on PCB or use the breadboard and secure the correct wires to the PCB
-
 
 
 ![image](https://user-images.githubusercontent.com/71288104/113535388-41bb4f80-95a1-11eb-9891-7d999342c624.png)
@@ -98,6 +87,15 @@ Weight (just the DHT22): 2.4g
 
 
 <h4>Load cell Amplifier</h4>
+
+Load Cell Amplifier is a small breakout board for the HX711 IC that quickly reads load cells to measure weight. By connecting the Amplifier to the RPI, one will be able to read the changes in the resistance of the load cell, and with some calibration, one will be able to get very accurate weight measurements. 
+The HX711 uses a two-wire interface (Clock and Data) for communication. Any  GPIO pins should work, and numerous libraries have been written, making it easy to read data from the HX711. Check the hookup guide below for more information.
+•	Red (Excitation+ or VCC)
+•	Black (Excitation- or GND)
+•	White (Amplifier-, Signal- or Output-)
+•	Green (A+, S+ or O+)
+•	Yellow (Shield)
+Double-check to make sure all pins are connected to correct colour codes. Place the Amplifier directly on its slot on PCB or use the breadboard and secure the correct wires to the PCB
 
 
 ![image](https://user-images.githubusercontent.com/71288104/113535467-7deeb000-95a1-11eb-9f13-865893898efd.png)
